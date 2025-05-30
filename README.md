@@ -1,47 +1,95 @@
-🎉✨ **Omtanmay's Awesome GitHub Repository!** ✨🎉
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=omtanmay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omtanmay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=omtanmay&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-🚀 Welcome to my GitHub playground! 🎮 Here, you'll find a collection of my coding adventures, innovative projects, and a sprinkle of digital magic! ✨💻
+###
 
-**About Me!** 🙋‍♂️
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+</div>
 
-I'm Omtanmay, a passionate student developer 🧑‍💻 from India 🇮🇳 who loves to explore the exciting world of technology! 🌐 From building full-stack web applications 🌐 to diving deep into the realm of robotics 🤖, I'm always eager to learn and create! 🛠️💡
+###
 
-**My Cool Projects!** 🌟
+<img src="https://raw.githubusercontent.com/omtanmay/omtanmay/output/snake.svg" alt="Snake animation" />
 
-* **License-Info-Extractor 🚗🔍**
-    * A super-smart license plate recognition system! 🤯 Captures, processes, and manages vehicle license plates in real-time! ⏱️ Powered by computer vision! 👁️‍🗨️
-    * 🐍 Python 🐍
-* **ngl.link-spammer-with-proxy- 😈💣**
-    * A fun bot that spams ngl.link with Python requests! 😜 Sends messages to usernames multiple times! 🚀
-    * 🐍 Python 🐍
-* **Raspberry-Pi-Hand-Gesture-Servo-Controller 🖐️🤖**
-    * Control servos with hand gestures using a Raspberry Pi! 🍓 Cool, right? 😎
-    * 👾 PureBasic 👾
-* **reddit-to-instaposter 🤖📸**
-    * A meme bot that grabs trending memes from Reddit and posts them on Instagram! 🤣 Keep your feed fresh! 🔄
-    * 🐍 Python 🐍
-* **automatic-audio-player 🎵🤖**
-    * An automatic audio player, for all your listening needs. 🎧
-    * 🐍 Python 🐍
-* **Waste-Segregation-system ♻️🤖**
-    * An Arduino-powered waste segregation system! 🗑️ Let's save the planet! 🌍
-    * <0xF0><0x9F><0x97><0x8A> C++ <0xF0><0x9F><0x97><0x8A>
+###
 
-**My Super Skills!** 🦸‍♂️
+<div align="center">
+  <a href="https://open.spotify.com/user/317qnpszyvtisgfzgfrmhre25qai">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317qnpszyvtisgfzgfrmhre25qai&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
-* **Full-Stack Web Development 🌐💻:** I've conquered the Complete Full-Stack Web Development Bootcamp! 🎓 (See `full stack.pdf` for proof! 📜)
-* **Robotics & ROS 🤖🚀:** I'm a whiz with ROS! 🧠 I've mastered self-driving and manipulator control! 🦾 (Check out `ros odomatory kenamatics.pdf` and `ros.pdf`! 📄)
-* **Innovation & Invention 🏆💡:** I won a GOLD MEDAL 🥇 at E-NNOVATE 2024 for my Motion Detecting Pesticide Spraying System! 🌿🦟 (See `E-nnovate2024-2Certificate (1).pdf`! 🏅)
-* **Digital Wizardry 🧙‍♂️✨:** My GitHub profile shows my digital proficiency! 📊 I'm a developer and DevOps enthusiast recognized by Microsoft Azure! ☁️
-* **Videography Vibes 🎬🎥:** Check out my Instagram for my videography skills! 🤩 [https://www.instagram.com/p/DGI_tjPyUYX/](https://www.instagram.com/p/DGI_tjPyUYX/) 📲
+###
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
 
-**Contribution Graph!** 📊
-
-Check out my contribution graph to see my coding journey! 📈 I'm always learning and growing! 🌱
-
-**Let's Connect!** 🤝
-
-Feel free to explore my repositories and reach out if you have any questions or ideas! 📧 Let's build something amazing together! 🏗️🚀
-
-🌟 Happy coding! 🌟
+###
