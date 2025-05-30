@@ -78,8 +78,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/omtanmay/omtanmay/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <picture>
@@ -89,6 +87,3 @@
 </picture>
 
 ###
-
-=======
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
