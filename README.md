@@ -1,7 +1,5 @@
 <img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
 
-<h2 align="center">🔥 Om Tanmay's Dev Profile 🔥</h2>
-
 <br/>
 
 <!-- STATS SECTION -->
